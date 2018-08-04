@@ -1,0 +1,58 @@
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\bin\Debug\Dr.Easy.exe.config
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\bin\Debug\Dr.Easy.exe
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\bin\Debug\Dr.Easy.pdb
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr. Easy.csprojResolveAssemblyReference.cache
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.Form1.resources
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.Properties.Resources.resources
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr. Easy.csproj.GenerateResource.cache
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr. Easy.csproj.CoreCompileInputs.cache
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.exe
+C:\Users\Shlom\source\repos\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\bin\Debug\Dr.Easy.exe.config
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\bin\Debug\Dr.Easy.exe
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\bin\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr. Easy.csprojAssemblyReference.cache
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.Form1.resources
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.Properties.Resources.resources
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr. Easy.csproj.GenerateResource.cache
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr. Easy.csproj.CoreCompileInputs.cache
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.exe
+C:\Users\Shlom\Desktop\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.pdb
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\bin\Debug\Dr.Easy.exe.config
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.exe
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.pdb
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\bin\Debug\Dr.Easy.exe
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\bin\Debug\Dr.Easy.pdb
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\obj\Debug\Dr. Easy.csprojResolveAssemblyReference.cache
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.Form1.resources
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\obj\Debug\Dr.Easy.Properties.Resources.resources
+C:\Users\Shlom\iCloudDrive\Dr. EasyY\Dr. Easy\obj\Debug\Dr. Easy.csproj.GenerateResource.Cache
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\bin\Debug\Dr.Easy.exe.config
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\bin\Debug\Dr.Easy.exe
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\bin\Debug\Dr.Easy.pdb
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr. Easy.csprojAssemblyReference.cache
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.Form1.resources
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.Properties.Resources.resources
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr. Easy.csproj.GenerateResource.cache
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr. Easy.csproj.CoreCompileInputs.cache
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.exe
+C:\Users\Shlom\iCloudDrive\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\bin\Debug\Dr.Easy.exe.config
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\bin\Debug\Dr.Easy.exe
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\bin\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr. Easy.csprojAssemblyReference.cache
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.Form1.resources
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.Properties.Resources.resources
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr. Easy.csproj.GenerateResource.cache
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr. Easy.csproj.CoreCompileInputs.cache
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.exe
+C:\Users\Shlom\Desktop\thread\Dr. EasyY(1)\Dr. Easy\obj\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\bin\Debug\Dr.Easy.exe.config
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.exe
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\bin\Debug\Dr.Easy.exe
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\bin\Debug\Dr.Easy.pdb
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.Form1.resources
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\obj\Debug\Dr.Easy.Properties.Resources.resources
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\obj\Debug\Dr. Easy.csproj.GenerateResource.Cache
+C:\Users\Shlom\Desktop\Dr. Easy\Dr. Easy\obj\Debug\Dr. Easy.csprojResolveAssemblyReference.cache
